@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Applicazione Appunti</string>
+    <string name="apri"> Apri</string>
+    <string name="chiudi"> Chiudi </string>
+</resources>
